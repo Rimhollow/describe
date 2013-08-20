@@ -37,7 +37,8 @@ html, body {
 }
 
 .header {
-	background-image:url(../images/daitss-logo.png);
+	/* Cosmetic change for the University of Kentucky */
+        /* background-image:url(../images/daitss-logo.png); */
 	background-repeat:no-repeat;
 	height:132px;
 	text-align:right;
